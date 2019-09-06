@@ -5,6 +5,7 @@
           <span>SICNUSE电子竞技俱乐部</span>
         </div>
         <div class="head_right">
+        //添加一行注释
           <ul>
             <li><a href="">公司主页</a></li>
             <li><a href="">手机版</a></li>
