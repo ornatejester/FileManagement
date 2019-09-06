@@ -1,0 +1,36 @@
+{
+  "UserToken":"asfasfewf@3fe",
+  "Position":"管理员",
+  "Status":"Success",
+  "code":0,
+  "data":{
+    "unit_id":"123456",
+    "UserID":"123456",
+    "UserPassword":"admin",
+    "UserName" :"123456",
+    "gender":"f",
+    "Birthday":"123456",
+    "Nation":"123456",
+    "Education":"123456",
+    "political_status":"123456",
+    "Address":"123456",
+    "Worktime":"123456",
+    "end_time":"123456",
+    "WorkID":"123456",
+    "wage":5000,
+    "zip_code":"123456",
+    "PhoneNumber":"123456",
+    "management":
+    [
+      {"name":"我的档案","xfunction":"my_file"},
+      {"name":"查询履历","xfunction":"query_antecedents"},
+      {"name":"查询档案","xfunction":"query_files"},
+      {"name":"添加档案","xfunction":"add_files"},
+      {"name":"权限管理","xfunction":"privilege_management"},
+      {"name":"档案变更情况","xfunction":"query_company"},
+      {"name":"添加履历","xfunction":"add_antecedents"},
+      {"name":"编辑档案","xfunction":"edit_files"}
+    ]
+  }
+
+}
