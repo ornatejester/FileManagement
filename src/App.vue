@@ -5,6 +5,7 @@
 </template>
 
 <script>
+// 增加了一行注释
 export default {
   name: 'App'
 }
